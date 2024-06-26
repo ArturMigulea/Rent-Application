@@ -1,11 +1,5 @@
-# Rentron
-Property rental and management app for final project of SEG2105 - Team 3
+#Renting App
 
-Implemented in Java.
+An application that connects landlords, property managers and clients into a singular platform.
 
-Milestones | Progress  
----------|----------
-Deliverable 1   |✔️
-Deliverable 2    |✔️
-Deliverable 3   |🏗️
-Deliverable 4    |❌
+The Landlord is able to register and list out their properties which will be visible for clients to choose from. The client can then choose on a listing that they are interested in, sign the agreement and contact the landlord about it, who is then able to decide which client is their best choice. The client can then talk to a property manager who is recruited by a landlord about any problems on their property.
